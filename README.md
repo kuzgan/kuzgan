@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
+Programming has been my passion for 7 years.
+I took my first steps by writing simple console applications in C++, which allowed me to understand programming. Later, I dealt with technologies such as C#, C, JavaScript, PHP, MsSQL, CSS, and HTML.
+
+After a short break from programming in which I developed another passion related to road transport, logistics, and car mechanics, I started learning JavaScript.
+I chose the frontend path to see the effects of my work in a browser window and not in the console. For some time now, my goal has been to become a professional, I learned on my own technologies such as React, Redux, and JavaScript.
+
+For the 3 last months I have worked with such technologies as JavaScript, TypeScript, React, HTML5, CSS3 and I have created responsive websites.
 <!--
 **kuzgan/kuzgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
